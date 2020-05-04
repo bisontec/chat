@@ -1,0 +1,25 @@
+{
+  "name": "package",
+  "version": "1.0.0",
+  "description": "234",
+  "main": "24",
+  "scripts": {
+    "test": "23"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bisontec/chat.git"
+  },
+  "keywords": [
+    "234"
+  ],
+  "author": "234",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/bisontec/chat/issues"
+  },
+  "homepage": "https://github.com/bisontec/chat#readme",
+  "dependencies": {
+    "express": "4.13.4"
+}
+}
